@@ -1,0 +1,44 @@
+.formContainer{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form{
+  position: relative;
+  box-shadow: 0 0 0 4px rgba(0, 0, 0, .5);
+  border-radius: 10px;
+  padding: 0;
+  width: 600px;
+}
+
+form h3{
+  text-transform: uppercase;
+  padding: .7rem;
+}
+
+form button{
+  font-size: 13pt !important;
+  text-transform: uppercase;
+  margin-top: .7rem;
+}
+
+label{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15pt;
+}
+
+.form-group {
+  position: relative;
+  margin-top: .8rem;
+}
+
+input{
+  font-size: 14pt;
+  border: 2px dotted #000 !important;
+}
+
+input::placeholder{
+  text-transform: capitalize;
+}
