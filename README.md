@@ -15,8 +15,9 @@ The approach use a linear graph to compare income and spending over a 12-month p
 
  - step 1 first fill in customer details (Name , surname ,date of birth)
  
- - step 2 use the input field  to browse to the userfile in the main file 
-
+ - step 2 use the input field  to browse to the  main foulder than access the foulder called
+ userfile than choose the excel file called (Income-Expense-Data)
+ 
  - step 3 submit the form.
     > NB the Application wont submit unless all the fields are filled with data
 
